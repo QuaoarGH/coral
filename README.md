@@ -10,8 +10,8 @@ A quality of life, single-file AI chatbot. Chat locally and customize freely!
 ## Getting Started
 
 1. Download `index.html` and open it in your browser
-2. (Optional) Go to Settings → Advanced, and add a Gemini API key to enable responses
-3. Get a free Gemini key at [aistudio.google.com](https://aistudio.google.com/app/apikey)
+2. Get a free Gemini key at [aistudio.google.com](https://aistudio.google.com/app/apikey)
+3. Go to Settings → Advanced, and add a Gemini API key to enable responses
 4. Start chatting
 
 ## Customization
@@ -23,12 +23,6 @@ A quality of life, single-file AI chatbot. Chat locally and customize freely!
 - **Memory** — Save facts, clear anytime, Coral refers to you naturally
 
 All settings persist in browser localStorage. All of your data stays yours
-
-## API Keys
-
-- **Gemini API** (optional) — Enables responses. Free tier available at [aistudio.google.com](https://aistudio.google.com/app/apikey)
-
-Key stored only in your browser; never sent to external servers.
 
 ## No Backend, No Tracking
 
