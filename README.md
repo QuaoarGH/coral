@@ -1,20 +1,16 @@
-# Coral — AI Chat in Your Browser
-
-A lightweight, single-file AI chatbot. Chat locally, customize freely, no backend required.
+# Welcome to Coral!
+A quality of life, single-file AI chatbot. Chat locally and customize freely!
 
 ## Features
 
-- **Customizable** — Pick colors, fonts, personality, reply length, response style
-- **Memory system** — Coral remembers facts about you across conversations
-- **Multi-chat sidebar** — Organize conversations, auto-titled
-- **Edit & retry** — Fix your messages or resend for a different response
+- **Fully Customizable** — Pick colors, fonts, personality, reply length, response style
 - **Dark/light/auto mode** — Follows your system preference
 - **All local** — No data leaves your browser (except optional API calls)
 
 ## Getting Started
 
 1. Download `index.html` and open it in your browser
-2. (Optional) Go to settings (gear icon) → Advanced section and add a Gemini API key to enable responses
+2. (Optional) Go to Settings → Advanced, and add a Gemini API key to enable responses
 3. Get a free Gemini key at [aistudio.google.com](https://aistudio.google.com/app/apikey)
 4. Start chatting
 
@@ -26,14 +22,7 @@ A lightweight, single-file AI chatbot. Chat locally, customize freely, no backen
 - **Advanced** — Gemini API key for responses, Deep Dive mode toggle
 - **Memory** — Save facts, clear anytime, Coral refers to you naturally
 
-All settings persist in browser localStorage. All of your data stays yours.
-
-## How It Works
-
-- Each chat saves its full conversation history locally
-- AI-generated titles auto-update based on first exchange
-- Keyboard shortcuts: `Ctrl+N` (new chat), `Ctrl+K` (search chats)
-- Edit (✏️) or retry (🔄) your messages, copy (📋) bot responses
+All settings persist in browser localStorage. All of your data stays yours
 
 ## API Keys
 
@@ -45,17 +34,10 @@ Key stored only in your browser; never sent to external servers.
 
 This is a static HTML file. No server, no accounts, no analytics. Open it locally or host it anywhere.
 
-## Tips
-
-- **Deep Dive mode** — Turn on in settings for thoughtful, thorough responses
-- **Memory** — Coral learns about you gradually. Share relevant facts naturally
-- **Edit messages** — Click ✏️ to load a message into the input, edit it, and resend
-- **Retry** — Click 🔄 to resend a message and get a different response
-
-## Building From Source
+# Single-File
 
 All code is in `index.html`. No build step needed. Modify anything!
 
 ---
 
-Made with ❤️ | v0.9 | Single file, zero dependencies
+Made with ❤️ | v0.9 | *by Quaoar*
